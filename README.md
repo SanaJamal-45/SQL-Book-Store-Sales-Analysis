@@ -194,10 +194,5 @@ This project helped strengthen skills in:
 1. Create the database and tables in MySQL.
 2. Insert the sample data into tables.
 3. Run the SQL queries using MySQL Workbench or any SQL editor.
-4. Analyze the outputs generated from the queries.
+5. Analyze the outputs generated from the queries.
 
----
-
-# Project Author
-
-Sana
